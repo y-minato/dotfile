@@ -1,6 +1,6 @@
 dotfile  
 =======  
-git Setup:  
+1.git Setup:  
 
 $ git init  
 $ git remote add origin https://github.com/y-minato/dotfile  
